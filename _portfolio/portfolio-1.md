@@ -1,7 +1,21 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Magic Frame"
+excerpt: "Portrait frame that can fill itself<br/><img src='/images/magic-frame/magic-frame.gif'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+Plotter machine where all of the mechanism is hidden.
+This project is still a work in progress!
+
+### Current Progress
+
+![gif of the Magic Frame](/images/magic-frame/magic-frame.gif) \
+Sped up gif of the Magic Frame drawing myself.
+
+![Back side of Magic Frame](/images/magic-frame/back-side.gif) \
+Back side of the Magic Frame to show the CoreXY gantry.
+
+### Next Steps
+- Add a camera and a compute board so the data processing can be done at edge.
+
