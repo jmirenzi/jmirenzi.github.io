@@ -1,5 +1,5 @@
 ---
-title: "Multimodal anomaly detection for autonomous cyber-physical systems empowering real-world evaluation
+title: "Multimodal anomaly detection for autonomous cyber-physical systems empowering real-world evaluation"
 collection: publications
 category: conferences
 permalink: https://doi.org/10.1007/978-3-031-74835-6_15
