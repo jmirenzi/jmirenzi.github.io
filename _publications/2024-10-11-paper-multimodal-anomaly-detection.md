@@ -2,10 +2,11 @@
 title: "Multimodal anomaly detection for autonomous cyber-physical systems empowering real-world evaluation"
 collection: publications
 category: conferences
-permalink: https://doi.org/10.1007/978-3-031-74835-6_15
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2024-10-11-paper-multimodal-anomaly-detection
+excerpt: 'Multimodal Anomaly Detector for Clearpath Husky UGV'
 date: 2024-10-11
 venue: 'International Conference on Decision and Game Theory for Security'
+paperurl: 'https://doi.org/10.1007/978-3-031-74835-6_15'
 bibtexurl: 'http://jmirenzi.github.io/files/bibtex/10.1007_978-3-031-74835-6_15-citation.bib'
 citation: 'Noorani, M., Puthanveettil, T.V., Zoulkarni, A., Mirenzi, J., Grody, C.D., Baras, J.S. (2025). Multimodal Anomaly Detection for Autonomous Cyber-Physical Systems Empowering Real-World Evaluation. In: Sinha, A., Fu, J., Zhu, Q., Zhang, T. (eds) Decision and Game Theory for Security. GameSec 2024. Lecture Notes in Computer Science, vol 14908. Springer, Cham. https://doi.org/10.1007/978-3-031-74835-6_15'
 ---
