@@ -43,8 +43,8 @@
 ;
 
 /* Dark mode link color override */
-[data-theme="dark"] {
+html[data-theme="dark"] {
   --global-link-color: #7eb8d4;
   --global-link-color-hover: #a8d4e8;
-  --global-link-color-visited: #9d8ec4;
+  --global-link-color-visited: #0b7994;
 }
