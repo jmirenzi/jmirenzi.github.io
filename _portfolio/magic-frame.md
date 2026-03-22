@@ -1,6 +1,8 @@
 ---
 title: "Magic Frame"
-excerpt: "Portrait frame that can fill itself<br/><img src='/images/magic-frame/magic-frame.gif'>"
+excerpt: "Portrait frame that can fill itself"
+header:
+  teaser: /images/magic-frame/magic-frame.gif
 collection: portfolio
 ---
 
