@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Masters in Robotics student at Carnegie Mellon University, with a BS in Mechanical Engineering from University of Maryland. My primary interest is Human Robot Interactions (HRI) and more specifically how a robot learner can improve even with a non-expert human teacher.
+I am a second-year Masters in Robotics student at Carnegie Mellon University, with a BS in Mechanical Engineering from University of Maryland. My primary interest is **Human Robot Interactions** (HRI) and more specifically how a robot learner can enable better teaching with a **non-expert human teacher**.
 
 Currently, I am a member of the [HARP Lab](https://harplab.github.io/harplab.deploy/) and advised my Dr. Henny Admoni.
 
@@ -53,3 +53,5 @@ I worked at the [CATT Lab](https://www.cattlab.umd.edu/) for two years developin
 {% endfor %}
 
 [See all projects →](/portfolio/)
+
+---
