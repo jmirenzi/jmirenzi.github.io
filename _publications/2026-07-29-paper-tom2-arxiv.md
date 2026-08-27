@@ -5,7 +5,7 @@ category: preprint
 permalink: /publication/2026-07-29-paper-tom2-arxiv
 excerpt: 'Self-Supervised Anomaly Detector'
 date: 2026-07-29
-venue: 'Carxiv'
+venue: 'arxiv'
 paperurl: 'https://doi.org/10.48550/arXiv.2608.11229'
 bibtexurl: 'http://jmirenzi.github.io/files/bibtex/mirenzi2026synchronizingbeliefssecondordertheoryofmind.bib'
 ---
